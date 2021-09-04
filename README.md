@@ -14,5 +14,7 @@ My name is Chairani Tiara, in the middle of pursuing my master of data science d
 	- [Time Series Analysis of Air Quality](https://github.com/ctsayyu/ctsayyu/blob/main/Time_Series_Project/Lab_5_Time_Series.ipynb)
 - Database Project
 	- [Database of Ownmade Shop](https://drive.google.com/drive/folders/1utib-wUfwG_7mfQrq9_RzXChggEPk6nu?usp=sharing)
+- R Project
+	- [Predicting Compressive Strength of Concrete using R Software](https://github.com/ctsayyu/ctsayyu/tree/main/R%20Project)
 
 
